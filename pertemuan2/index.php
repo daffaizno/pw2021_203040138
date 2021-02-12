@@ -19,7 +19,15 @@ var_dump ("daffaiz");
 /* 
     Penulisan Sintaks PHP :
     1. PHP di dalam HTML
+
+    <h1> <?php echo "daffaiz"; ?> </h1>
+
     2. HTML di dalam PHP
+
+    <?php 
+    echo "<h1>daffaiz<h1>";
+    ?>
+
 */
 
 // Variabel dan Tipe Data 
