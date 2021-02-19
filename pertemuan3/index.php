@@ -6,7 +6,8 @@
     Pertemuan 3 - 19 Februari 2021
     Minggu ke-3 belajar mengenai Struktur Kendali (Pengulangan & Pengkondisian)
 */
-
+?>
+<?php
 // Pengulangan ada 4 :
 // for 
 // while 
