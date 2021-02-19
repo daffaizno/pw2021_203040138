@@ -6,7 +6,8 @@
     Pertemuan 2 - 12 Februari 2021
     Minggu ke-2 belajar mengenai sintaks dasar php
 */
-
+?>
+<?php
 // Standar output 
 // echo, print
 echo "daffaiz";
