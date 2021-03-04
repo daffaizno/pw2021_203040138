@@ -28,7 +28,7 @@ Shift Jumat 13.00
                     <?php } ?>
                 <?php endfor; ?>
             <tr>
-            <?php endfor; ?>
+        <?php endfor; ?>
     </table>
 </body>
 
